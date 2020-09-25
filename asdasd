@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="utf8">
+<title>ELSŐ WEBOLDALAM</title>
+</head>
+<body>
+
+<h1>Random bekezdések</h1>
+<h2>Ez is egy cím</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque convallis vitae tellus quis malesuada. Donec magna sem, dictum in urna sit amet, condimentum accumsan nibh. Maecenas at tincidunt est. Etiam ut interdum nisi. Ut pharetra arcu arcu, ut scelerisque justo dignissim id. Cras velit nisi, laoreet vitae tincidunt vel, egestas sit amet ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc sit amet quam in risus aliquet vulputate. Nunc viverra, elit vitae commodo rutrum, massa velit pellentesque ex, sed venenatis dui elit in felis. Sed ac odio lorem.</p>
+
+<ol>
+<li>Poncius Pilátusz</li>
+<li>fikusz kukisz</li>
+<li>Tom and Jerry</li>
+</ol>
+
+<p>Praesent sit amet dui eget sem rhoncus porta. Proin sollicitudin ipsum sed diam mollis, non gravida nisl dapibus. Sed tincidunt commodo metus, nec dictum est vestibulum ut. Aenean vestibulum velit eu quam sodales, eget auctor arcu vulputate. Phasellus mollis tincidunt massa, eget condimentum dolor vehicula quis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut convallis nulla eget turpis luctus sodales. Mauris iaculis orci erat, vel tincidunt risus blandit vitae. Nullam ex felis, mollis quis vulputate ut, volutpat quis sem. Phasellus vitae magna metus.</p>
+
+<ul>
+<li>hgsdvkdhf</li>
+<li>dhfjgdshg</li>
+<li>élgfdkhéf</li>
+</ul>
+
+<img src="photo.jpg" alt="Egy repülő van a fák között"/>
+
+<p>Phasellus posuere diam odio, quis finibus orci dignissim sit amet. Phasellus ut lacus sit amet est hendrerit convallis eget vel neque. Donec sit amet auctor ligula, at aliquet nisl. Etiam pellentesque, orci at convallis viverra, mauris nisi finibus felis, non ornare ante nunc nec sapien. Proin consequat sagittis est, a ullamcorper metus ullamcorper eu. Ut tristique ac odio eget malesuada. Curabitur eu mi nec sem dignissim sollicitudin. Aliquam egestas placerat nisi laoreet rutrum. In ut laoreet odio, et bibendum nulla. Donec in leo nec urna egestas iaculis.</p>
+
+<p>Nunc aliquet iaculis mauris et suscipit. Duis urna sem, accumsan eget enim a, molestie tempor diam. Etiam vestibulum vitae erat id faucibus. Sed sit amet nunc quis eros dictum tempor nec vel enim. Morbi ipsum felis, porttitor eget blandit sed, consequat at enim. Mauris convallis scelerisque lacinia. Suspendisse laoreet purus eu est pretium condimentum. In hac habitasse platea dictumst. In id elementum urna. Aliquam erat volutpat. Sed accumsan quam nec arcu euismod mollis. Pellentesque ultrices nec metus vel euismod. Etiam euismod tortor purus, vitae vestibulum diam lacinia eu. Curabitur aliquet aliquet purus, quis tristique justo fringilla id. Suspendisse pellentesque massa quis tortor sagittis, eu varius lectus ullamcorper. Vivamus quis nisi eu nulla maximus faucibus quis vitae quam.</p>
+
+<p>Pellentesque eget vulputate enim. Vestibulum ullamcorper dapibus ligula sit amet sagittis. Donec blandit eros nisl. Morbi et porttitor turpis. Vivamus rutrum cursus ante vitae efficitur. Quisque tempus tempor ex ut placerat. Ut dignissim urna in sollicitudin porttitor. Fusce cursus iaculis nisl, ut eleifend purus auctor nec. Duis sit amet ligula sed tellus faucibus eleifend. Nullam diam nunc, maximus vitae felis at, bibendum convallis ligula. Phasellus tempus, urna non euismod ullamcorper, neque sem finibus mauris, consectetur euismod augue massa sed nisi. Duis tincidunt accumsan leo, vel viverra urna accumsan sed.</p>
+
+<a href="new 5.html">Katt megint ide</a>
+
+</body>
+</html>
